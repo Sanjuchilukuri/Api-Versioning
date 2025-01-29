@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/35d6a5b9-e974-4e6e-a96b-f91852ee3242)# API Versioning Demo
-
 ## Overview
 This project demonstrates API versioning in an ASP.NET Core application using `Asp.Versioning`. API versioning allows clients to access different versions of an API while maintaining backward compatibility.
 
